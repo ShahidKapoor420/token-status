@@ -1,0 +1,8 @@
+{
+  "last_run": "2023-11-15T12:00:00",
+  "success_count": 150,
+  "fail_count": 5,
+  "total": 155,
+  "failed_uids": ["123456", "789012"],
+  "signature": "a1b2c3... (SHA256 hash of the content)"
+}
